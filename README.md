@@ -46,7 +46,7 @@ Each tip aligns with **OWASP OTG** categories and is written to be:
 ## 🔗 Original LinkedIn Series
 
 🟦 **LinkedIn – Original Post**  
-](https://www.linkedin.com/pulse/security-tips-amira-soliman-msc-istqb-st-istqb-tta/)
+https://www.linkedin.com/pulse/security-tips-amira-soliman-msc-istqb-st-istqb-tta
 ---
 
 ## 🏷️ Tags
