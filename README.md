@@ -25,7 +25,7 @@ Each tip aligns with **OWASP OTG** categories and is written to be:
 ## 📌 Tips Index
 
 ### Information Gathering
-- [Security Tip #1 – Information Gathering (OTG-INFO)](daily-tips/tip-01-information-gathering.md)
+- [Security Tip #1 – Information Gathering (OTG-INFO)](tip-01-information-gathering)
 
 ### Authentication Testing
 - [Security Tip #1 – Authentication Testing Overview](daily-tips/tip-01-authentication-overview.md)
