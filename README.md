@@ -28,7 +28,7 @@ Each tip aligns with **OWASP OTG** categories and is written to be:
 - [Security Tip #1 – Information Gathering (OTG-INFO)](tip-01-information-gathering)
 
 ### Authentication Testing
-- [Security Tip #1 – Authentication Testing Overview](daily-tips/tip-01-authentication-overview.md)
+- [Security Tip #1 – Authentication Testing Overview](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-01-information-gathering)
 - [Security Tip #2 – Authentication Testing Overview](daily-tips/tip-02-authentication-overview.md)
 - [Security Tip #3 – Encrypted Credential Transport (OTG-AUTHN-001)](daily-tips/tip-03-credentials-over-https.md)
 - [Security Tip #4 – Default Credentials (OTG-AUTHN-002)](daily-tips/tip-04-default-credentials.md)
