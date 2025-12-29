@@ -2,12 +2,14 @@
 
 Powered by the **OWASP Web Security Testing Guide (WSTG)**
 
+ ![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=green&style=for-the-badge)
+
+![OWASP](https://img.shields.io/badge/OWASP-Contributor-blueviolet)
+
 A curated collection of **daily application security checks** focused on
 real-world vulnerabilities, testing techniques, and remediation guidance.
 
-![Profile Views](https://komarev.com/ghpvc/?username=amirasolimanahmed&color=green&style=for-the-badge)
 
-![OWASP](https://img.shields.io/badge/OWASP-Contributor-blueviolet)
 
 
 ---
