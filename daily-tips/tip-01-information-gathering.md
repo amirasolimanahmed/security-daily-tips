@@ -5,13 +5,10 @@
 Understanding the server configuration and application environment is as critical as
 testing the application itself. An application is only as secure as its weakest link.
 
-
-
 ## 🎯 Objectives
 - Identify information leakage
 - Discover entry points
 - Understand application architecture
-
 
 ## 📌 OWASP Coverage
 - OTG-INFO-001 – Search engine discovery & reconnaissance
@@ -25,5 +22,4 @@ testing the application itself. An application is only as secure as its weakest 
 - OTG-INFO-009 – Fingerprint application
 - OTG-INFO-010 – Map architecture
 
-https://www.linkedin.com/feed/update/urn:li:activity:6649651604486148096/
-
+🔗 Original LinkedIn Post (https://www.linkedin.com/feed/update/urn:li:activity:6649651604486148096/)
