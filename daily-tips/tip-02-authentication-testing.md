@@ -1,6 +1,4 @@
 
-# 🔐 Security Tip #2 – Information Gathering (OTG-INFO)
-
 # 🔐 Security Tip #2 – Authentication Testing (Overview)
 ## 🔑 What is Authentication?
 
