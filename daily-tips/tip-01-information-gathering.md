@@ -22,4 +22,4 @@ testing the application itself. An application is only as secure as its weakest 
 - OTG-INFO-009 – Fingerprint application
 - OTG-INFO-010 – Map architecture
 
-🔗 Original LinkedIn Post (https://www.linkedin.com/feed/update/urn:li:activity:6649651604486148096/)
+🔗 [Original LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6649651604486148096/)
