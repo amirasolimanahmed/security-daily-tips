@@ -35,18 +35,17 @@ Each tip aligns with **OWASP OTG** categories and is written to be:
 - [Security Tip #1 – Information Gathering (OTG-INFO)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-01-information-gathering.md)
 
 ### Authentication Testing
-- [Security Tip #1 – Authentication Testing Overview](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-01-information-gathering)
-- [Security Tip #2 – Authentication Testing Overview](daily-tips/tip-02-authentication-overview.md)
-- [Security Tip #3 – Encrypted Credential Transport (OTG-AUTHN-001)](daily-tips/tip-03-credentials-over-https.md)
-- [Security Tip #4 – Default Credentials (OTG-AUTHN-002)](daily-tips/tip-04-default-credentials.md)
-- [Security Tip #5 – Weak Account Lockout (OTG-AUTHN-003)](daily-tips/tip-05-weak-account-lockout.md)
-- [Security Tip #6 – Lockout Remediation (OTG-AUTHN-003)](daily-tips/tip-06-lockout-remediation.md)
-- [Security Tip #7 – Authentication Bypass (OTG-AUTHN-004)](daily-tips/tip-07-authentication-bypass.md)
-- [Security Tip #8 – Parameter Manipulation (OTG-AUTHN-004)](daily-tips/tip-08-parameter-manipulation.md)
-- [Security Tip #9 – Remember-Me Functionality (OTG-AUTHN-005)](daily-tips/tip-09-remember-me.md)
-- [Security Tip #10 – Browser Cache Weakness (OTG-AUTHN-006)](daily-tips/tip-10-browser-cache.md)
-- [Security Tip #11 – Weak Password Policy (OTG-AUTHN-007)](daily-tips/tip-11-password-policy.md)
-- [Security Tip #12 – Weak Security Questions (OTG-AUTHN-008)](daily-tips/tip-12-security-questions.md)
+- [Security Tip #2 – Authentication Testing Overview](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-02-authentication-testing.md)
+- [Security Tip #3 – Authentication Testing Overview](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-03-encrypted-credential-transport.md)
+- [Security Tip #4 – Encrypted Credential Transport (OTG-AUTHN-001)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-04-default-credentials.md)
+- [Security Tip #5 – Default Credentials (OTG-AUTHN-002)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-05-weak-account-lockout.md)
+- [Security Tip #6 – Weak Account Lockout (OTG-AUTHN-003)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-06-lockout-remediation.md)
+- [Security Tip #7 – Lockout Remediation (OTG-AUTHN-003)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-07-authentication-bypass.md)
+- [Security Tip #8 – Authentication Bypass (OTG-AUTHN-004)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-08-authentication-bypass.md)
+- [Security Tip #9 – Parameter Manipulation (OTG-AUTHN-004)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-09-remember-me-functionality.md)
+- [Security Tip #10 – Remember-Me Functionality (OTG-AUTHN-005)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-10-browser-bache-weakness.md)
+- [Security Tip #11 – Browser Cache Weakness (OTG-AUTHN-006)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-11-weak-password-policy.md)
+- [Security Tip #12 – Weak Password Policy (OTG-AUTHN-007)](https://github.com/amirasolimanahmed/security-daily-tips/blob/main/daily-tips/tip-12-weak-security-questions.md)
 
 ---
 
